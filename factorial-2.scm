@@ -1,1 +1,0 @@
-factorial/factorial-2.scm
