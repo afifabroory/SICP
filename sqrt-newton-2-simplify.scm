@@ -1,1 +1,0 @@
-sqrt-newton/sqrt-newton-2-simplify.scm
