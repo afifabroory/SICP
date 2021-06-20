@@ -3,7 +3,7 @@
 	1
 	(* n (factorial (- n 1))))) ; n! = n*(n-1)*(n-2)*...*1
 
-; SUBSTITUION MODEL
+; SUBSTITUION MODEL (Linear Recursive Process)
 ; (factorial 6)
 ; (* 6 (factorial 5))
 ; (* 6 (* 5 (factorial 4)))
@@ -16,5 +16,3 @@
 ; (* 6 (* 5 24))
 ; (* 6 120)
 ; 720
-
-
